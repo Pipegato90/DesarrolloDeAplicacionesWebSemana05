@@ -22,5 +22,4 @@ Una galería de imágenes interactiva creada con HTML, CSS y JavaScript.
   
 ## Autor  
   
-Castillo Mayorga Felipe Alejandro"# DesarrolloDeAplicacionesWebSemana05" 
 Castillo Mayorga Felipe Alejandro 
