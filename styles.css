@@ -1,0 +1,33 @@
+body {  
+    font-family: sans-serif;  
+    text-align: center;  
+}  
+  
+.controls {  
+    margin-bottom: 20px;  
+}  
+  
+.gallery {  
+    display: grid;  
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Diseño adaptable */  
+    gap: 10px;  
+    padding: 10px;  
+    border: 1px solid #ccc;  
+}  
+  
+.gallery img {  
+    width: 100%;  
+    height: auto;  
+    object-fit: cover; /* Evita la distorsión de la imagen */  
+    cursor: pointer;  
+    transition: transform 0.2s ease-in-out; /* Transición suave */  
+}  
+  
+.gallery img:hover {  
+    transform: scale(1.05); /* Pequeño zoom al pasar el mouse */  
+}  
+  
+.selected {  
+    border: 3px solid blue;  
+    box-shadow: 0 0 10px rgba(0, 0, 255, 0.5); /* Sombra para resaltar */  
+}  
