@@ -18,8 +18,8 @@ Una galería de imágenes interactiva creada con HTML, CSS y JavaScript.
   
 ## Demo  
   
-[Enlace a GitHub Pages]([https://tu-usuario.github.io/nombre-del-repositorio](https://pipegato90.github.io/DesarrolloDeAplicacionesWebSemana05/)/)  
+[Enlace a GitHub Pages]([https://pipegato90.github.io/DesarrolloDeAplicacionesWebSemana05/)] 
   
 ## Autor  
   
-Castillo Mayorga Felipe Alejandro"# DesarrolloDeAplicacionesWebSemana05" 
+Castillo Mayorga Felipe Alejandro 
